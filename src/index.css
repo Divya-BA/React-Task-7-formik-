@@ -1,0 +1,85 @@
+*{
+
+  font-family: cursive;
+  font-size: 20px;
+  font-weight: bolder;
+}
+li{
+  
+  display: inline;
+ margin:20px;
+}
+ul,h1{
+  text-align: center;
+}
+.a{
+  text-decoration: none;
+  color: black;
+}
+.form{
+  display: block;
+  margin: 10px;
+}
+form{
+  text-align: left;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-image: url("https://th.bing.com/th/id/OIP.h4gjgOYaJ63mqHWBHHLiEQHaE9?pid=ImgDet&rs=1");
+  width: 25rem;
+  
+}
+.submit-button{
+  margin: 5px;
+  text-align: center;
+  border-radius: 5px;
+  background-color: dodgerblue;
+}
+.submit{
+  text-align: center;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.flex{
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.card{
+  margin: 68px;
+  text-align: center;
+  background-image: url("https://th.bing.com/th/id/OIP.h4gjgOYaJ63mqHWBHHLiEQHaE9?pid=ImgDet&rs=1");
+  box-shadow: 10px 10px 5px grey;
+}
+nav{
+  margin: 40px;
+}
+.nav-button{
+  border-radius: 7px;
+  width: 12rem;
+  height: 3rem;
+  background-image: url("https://th.bing.com/th/id/OIP.h4gjgOYaJ63mqHWBHHLiEQHaE9?pid=ImgDet&rs=1");
+}
+.edit{
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color:darkorange;
+  margin: 6px;
+}
+.delete{
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: crimson;
+  margin: 6px;
+}
+input{
+  border-radius: 7px;
+}
+h1{
+  background-image: url("https://th.bing.com/th/id/OIP.h4gjgOYaJ63mqHWBHHLiEQHaE9?pid=ImgDet&rs=1");
+
+}
